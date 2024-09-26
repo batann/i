@@ -1,14 +1,7 @@
 ##!/bin/bash
 #clear
 #
-
-##################################################################
-####               SUDO VISUDO                                 ###
-##################################################################
-
-
-
-echo "batan ALL=(ALL:ALL) NOPASSWD:ALL"|sudo EDITOR='tee -a' visudo
+#echo "batan ALL=(ALL:ALL) NOPASSWD:ALL"|sudo EDITOR='tee -a' visudo
 #
 
 
